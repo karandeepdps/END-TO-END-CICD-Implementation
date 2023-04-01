@@ -1,5 +1,5 @@
 
-# Java Maven Application Deployment with this Ultimate CI/CD Pipeline using Jenkins, Docker, SonarQube, Argo CD, Helm and Kubernetes
+# Java Maven Application Deployment with CI/CD Pipeline using Jenkins, Docker, SonarQube, Argo CD, Helm and Kubernetes
 ![ultimate cicd pipeline](https://user-images.githubusercontent.com/32189783/229286588-d165390a-79ca-4c1f-9a45-956d09fa7deb.png)
 
 ## Jenkins configured with Docker as a slave 
